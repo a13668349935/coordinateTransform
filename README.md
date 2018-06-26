@@ -10,3 +10,4 @@ https://github.com/wandergis/coordTransform_py
 选择 要素类
 选择 转换方法
 得到转换后的 shp文件。
+![image](https://github.com/a13668349935/coordinateTransform/blob/master/coor.png)
